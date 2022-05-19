@@ -1,2 +1,2 @@
 # Intro-to-Python-CS303E-
-Material from CS303E coursework at UT Austin
+This includes homeworks and projects using Python from my CS303E(Elements of Computers and Programming) coursework at UT Austin
